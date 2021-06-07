@@ -1,9 +1,7 @@
 {
     "LoginWrapper.headlineTitle": "Welcome to SoMee.Social Beta!",
     "LoginWrapper.headlineText": "If you've already been accepted into the beta, log in on the right. Otherwise click sign-up and join the list today!",
-  
     "SocialLogin.headerText": "Sign in with",
-  
     "SignUpWithEmail.headerText": "Sign Up",
     "SignUpWithEmail.subtitle": "Create a New Account",
     "SignUpWithEmail.firstName": "First Name",
@@ -12,13 +10,11 @@
     "SignUpWithEmail.password": "Password",
     "SignUpWithEmail.confirmPassword": "Confirm Password",
     "SignUpWithEmail.create": "CREATE",
-  
     "LoginWithEmail.headerText": "Login",
     "LoginWithEmail.email": "Email",
     "LoginWithEmail.password": "Password",
     "LoginWithEmail.login": "LOGIN",
     "LoginWithEmail.forgotPassword": "Forgot your Password?",
-  
     "LoginGenericStatus.headers.pendingConfirmation": "We sent a confirmation email to your email",
     "LoginGenericStatus.headers.passwordUpdated": "Your password has been updated",
     "LoginGenericStatus.headers.emailConfirmed": "Your email has been successfully confirmed",
@@ -26,12 +22,10 @@
     "LoginGenericStatus.description.passwordUpdated": "Please login using your new password.",
     "LoginGenericStatus.description.emailConfirmed": "Now you can login into your account.",
     "LoginGenericStatus.login": "LOGIN",
-  
     "ForgotPassword.forgotYourPassword": "Forgot your password?",
     "ForgotPassword.enterEmail": "Enter your email address below and we'll get your back on track.",
     "ForgotPassword.email": "Email",
     "ForgotPassword.send": "SEND",
-  
     "Footer.privacy": "Privacy",
     "Footer.terms": "Terms",
     "Footer.cookies": "Cookies",
@@ -39,20 +33,16 @@
     "Footer.legalDisclosures": "Disclosures",
     "Footer.doNotSell": "Do Not Sell My info",
     "Footer.someeGlobal": "© {year} SoMee Global, Inc",
-  
     "DontHaveAccount.dontHaveAnAccount": "Don't have an account?",
     "DontHaveAccount.signUp": "SIGN UP",
-  
     "HaveAccount.doYouHaveAnAccount": "Do you have an account?",
     "HaveAccount.login": "LOGIN",
-  
     "useForm.required": "This is required.",
     "useForm.maxLength": "The maximum length is {length}.",
     "useForm.minLength": "The minimum length is {length}.",
     "useForm.email": "Email not in a valid format or is unknown type.",
     "useForm.pattern": "Invalid value.",
     "useForm.equals": "Values do not match.",
-  
     "Backend.genericError": "Something went wrong.",
     "Backend.userNotEnabled": "Your account isn't confirmed yet, please check your email for confirmation.",
     "Backend.userNotFound": "User not found.",
@@ -67,13 +57,11 @@
     "Backend.accountLocked": "Account locked.",
     "Backend.cantVoteOnOwnPost": "You can't vote for your own post.",
     "Backend.invalidAccessRole": "Authentication failed, you are not approved for the beta release.",
-  
     "UpdatePassword.changeYourPassword": "Change your password",
     "UpdatePassword.enterYourPassword": "Enter your new password bellow.",
     "UpdatePassword.password": "Password",
     "UpdatePassword.confirmPassword": "Confirm password",
     "UpdatePassword.changePassword": "CHANGE PASSWORD",
-  
     "Login2FA.headerText": "Two factor authentication required",
     "Login2FA.enterTheSMSCode": "Please enter the 6-digit verification code sent to your phone",
     "Login2FA.enterTheAppCode": "Please enter the 6-digit verification from your authenticator",
@@ -81,10 +69,8 @@
     "Login2FA.resendCode": "Resend Code",
     "Login2FA.code": "Code",
     "Login2FA.differentMethod": "USE A DIFFERENT METHOD",
-  
     "Header.search": "Search",
     "Header.wallet": "Wallet",
-  
     "BasicSettings.socialLogin": "Social Login",
     "BasicSettings.generalSettings": "General Settings",
     "BasicSettings.firstName": "First Name",
@@ -107,7 +93,6 @@
     "BasicSettings.editFailed": "Unable to update, please try again",
     "BasicSettings.updatePasswordSuccess": "Password updated successfully",
     "BasicSettings.updatePasswordFailed": "Unable to update password, please try again",
-  
     "SecuritSettings.start": "Start",
     "SecuritSettings.cancel": "Cancel",
     "SecuritSettings.addExtra": "Add extra security with two-factor authentication",
@@ -160,11 +145,9 @@
     "SecuritSettings.twoFaEnabled": "2FA enabled successfully.",
     "SecuritSettings.textMessageAuthRemoved": "Text message authentication removed.",
     "SecuritSettings.codeSend": "Code has been sent.",
-  
     "BlockchainSettings.generalSettings": "General Blockchain Settings",
     "BlockchainSettings.publishOnSomee": "Publish posts on the Blockchain",
     "BlockchainSettings.votingPowerOnSomee": "Voting Power",
-  
     "NotificationSettings.notifications": "Notifications",
     "NotificationSettings.instant": "Instant Notifications",
     "NotificationSettings.email": "Instant Email Notifications",
@@ -178,7 +161,6 @@
     "NotificationSettings.requests": "Requests",
     "NotificationSettings.friend": "Friend Requests",
     "NotificationSettings.group": "Invitations to Groups",
-  
     "PrivacySettings.timelinePrivacy": "Timeline Privacy",
     "PrivacySettings.timelinePrivacyDescription": "Adjust who can see and post, or work with your timeline",
     "PrivacySettings.seeMyTimeline": "Who can see my profile details?",
@@ -215,7 +197,6 @@
     "PrivacySettings.profileInSearchDescription": "Set who can search for your profile, by default only Mutual Followers can see you. Set to No One to not appear in any search result.",
     "PrivacySettings.messageMe": "Who can massage me?",
     "PrivacySettings.messageMeDescription": "Set who can send you a message on the platform, chosing 'No One' will prevent you from ever being sent a message on the platform (Default is Mutual Followers)",
-  
     "PrivacySettings.profile": "Profile",
     "PrivacySettings.profileView": "Profile View",
     "PrivacySettings.profileSearch": "Profile Searching",
@@ -236,7 +217,6 @@
     "PrivacySettings.followers": "All Followers",
     "PrivacySettings.mutualFollowers": "Only Followers I Approve",
     "PrivacySettings.mutualFriends": "Mutual Followers",
-  
     "SecuritySettings.twoFactorAuthentication": "Two-factor authentication",
     "SecuritySettings.password": "Password",
     "SecuritySettings.securityCode": "We'll ask for a security code when you login or access your wallet.",
@@ -244,7 +224,6 @@
     "SecuritySettings.configure": "Configure",
     "SecuritySettings.changePassword": "Change Password",
     "SecuritySettings.addedSecurity": "Security",
-  
     "ChangePassword.password": "Password",
     "ChangePassword.setANewPassword": "Set a new password",
     "ChangePassword.oldPassword": "Old Password",
@@ -257,19 +236,16 @@
     "ChangePassword.number": "1 number",
     "ChangePassword.specialCharacter": "1 special character",
     "ChangePassword.passwordMatch": "Password Match",
-  
     "SettingsHeader.basic": "Basic Information",
     "SettingsHeader.security": "Security",
     "SettingsHeader.privacy": "Privacy",
     "SettingsHeader.notification": "Notification",
     "SettingsHeader.blockchain": "Blockchain",
-  
     "ProfileSidebar.votingPower": "Voting Power",
     "ProfileSidebar.helpAndSupport": "Help and support",
     "ProfileSidebar.aboutSomee": "About SoMee",
     "ProfileSidebar.about": "About",
     "ProfileSidebar.logout": "Logout",
-  
     "LinksSidebar.news": "News feed",
     "LinksSidebar.followers": "Followers",
     "LinksSidebar.following": "Following",
@@ -281,7 +257,6 @@
     "LinksSidebar.dashboard": "Social Dashboard",
     "LinksSidebar.becomeInfluencer": "Become an Influencer",
     "LinksSidebar.logout": "Logout",
-  
     "Followers.online": "Online",
     "Followers.unfollowFollowerModalPara": "Are you sure you want to stop following ",
     "Followers.removeFollowerModalPara": "Are you sure you want to remove ",
@@ -300,10 +275,8 @@
     "Followers.cancelFollowRequest": "Follow request has been cancelled",
     "Followers.removeFollower": "Follower has been removed",
     "Followers.removeFollowerError": "Unable to remove follower, please try again later",
-  
     "CoinsSidebar.favoriteCoins": "My Favorite Coins",
     "CoinsSidebar.noCoins": "No Favorite Coins",
-  
     "FooterSidebar.privacy": "Privacy",
     "FooterSidebar.terms": "Terms",
     "FooterSidebar.cookies": "Cookies",
@@ -312,12 +285,10 @@
     "FooterSidebar.doNotSellMyInfo": "Do Not Sell My info",
     "FooterSidebar.disclosers": "Disclosers",
     "FooterSidebar.someeGlobal": "© {year} SoMee Global, Inc",
-  
     "Feed.youHaveSeenItAll": "Yay! You have seen it all.",
     "Feed.pullDownToRefresh": "Pull Down to Refresh",
     "Feed.releaseToRefresh": "Release to Refresh",
-    "Feed.nothingToSeHere": "Nothing to see here...!",
-  
+    "Feed.nothingToSeHere": "Nothing to see here…!",
     "NewPost.whatsOnYour": "What's on your mind?",
     "NewPost.image": "Image",
     "NewPost.emoji": "Emoji",
@@ -335,32 +306,27 @@
     "NewPost.incorrectFormat": "Incorrect image format, only PNG, JPEG and JPG are allowed",
     "NewPost.limitImageNumber": "You cannot upload more than 100 images",
     "NewPost.limitImageNumberForComments": "You cannot upload more than 1 image",
-    "NewPost.greaterImageTotal": "Total upload size is greater than 10 MB! Please do not close this session or navigate away while we are loading...",
-  
+    "NewPost.greaterImageTotal": "Total upload size is greater than 10 MB! Please do not close this session or navigate away while we are loading…",
     "OptionsLink.save": "Save",
     "OptionsLink.boost": "Boost",
     "OptionsLink.copy": "Copy Link",
     "OptionsLink.report": "Report",
     "OptionsLink.edit": "Edit",
     "OptionsLink.delete": "Delete",
-  
     "PostOptions.copyMessage": "Post link copied successfully!",
     "PostOptions.addBookmarkSuccess": "Post Bookmarked successfully!",
     "PostOptions.addBookmarkError": "Error while bookmarking post!",
     "PostOptions.deleteBookmarkSuccess": "Post bookmark removed successfully!",
     "PostOptions.deleteBookmarkError": "Error while removing bookmark from post!",
-  
     "PostDeleteModal.title": "Delete Post",
     "PostDeleteModal.message": "Are you sure you want to delete this post?",
     "PostDeleteModal.cancelButton": "Cancel",
     "PostDeleteModal.deleteButton": "Delete",
     "PostDeleteModal.deleteError": "Error while deleting your post!",
     "PostDeleteModal.deleteSuccess": "Your post was deleted successfully!",
-  
     "Votes.upvoteSuccess": "Post was upvoted successfully!",
     "Votes.downvoteSuccess": "Post was downvoted successfully!",
     "Votes.removed": "Post vote was removed successfully!",
-  
     "Comments.noComments": "Be the first to comment on this post!",
     "Comments.addCommentError": "Unable to add comment! An error occoured, try again in a few moments",
     "Comments.editCommentError": "Unable to edit comment! An error occoured, try again in a few moments",
@@ -368,14 +334,12 @@
     "Comments.deleteCommentSuccess": "Comment Deleted successfully!",
     "Comments.editCommentSuccess": "Comment Edited successfully!",
     "Comments.limitReached": "Max limit is 1000 characters - please edit your comment to lower your character count.",
-  
     "CommentDeleteModal.title": "Delete Comment",
     "CommentDeleteModal.message": "Are you sure you want to delete this comment?",
     "CommentDeleteModal.cancelButton": "Cancel",
     "CommentDeleteModal.deleteButton": "Delete",
     "CommentDeleteModal.deleteError": "Unable to delete comment! An error occoured, try again in a few moments",
     "CommentDeleteModal.deleteSuccess": "Your comment was deleted successfully!",
-  
     "Search.users": "Users",
     "Search.groups": "Groups",
     "Search.companies": "Companies",
@@ -389,7 +353,6 @@
     "Search.showAllResult": "Show All",
     "Search.remove": "Remove",
     "Search.requestSent": "Request Sent",
-  
     "Profile.editImage": "Upload",
     "Profile.deleteImage": "Delete Image",
     "Profile.profileImageUploadSuccess": "Profile image uploaded successfully",
@@ -398,7 +361,6 @@
     "Profile.backgroundImageUploadError": "Unable to upload background image! An error occoured, try again in a few moments",
     "Profile.deleteImageSuccess": "Image Deleted Successfully",
     "Profile.deleteImageError": "Unable to delete image! An error occoured, try again in a few moments",
-  
     "PostReportModal.title": "Report",
     "PostReportModal.selectProblem": "What Problem are you Reporting?",
     "PostReportModal.selectResume": "You can report the post after selecting an issue.",
@@ -416,7 +378,6 @@
     "PostReportModal.unauthorizedSales": "Unauthorized Sales",
     "PostReportModal.falseInformation": "False Information",
     "PostReportModal.somethingElse": "Something Else",
-  
     "AsyncNotification.userpostCreate": "{name} wrote on your timeline.",
     "AsyncNotification.friendCreate": "{name} sent you a follow request.",
     "AsyncNotification.grouppostCreate": "{name} wrote in group you follow.",
@@ -426,11 +387,9 @@
     "AsyncNotification.userpostComment": "{name} commented on your post.",
     "AsyncNotification.groupInvite": "{name} invites you to join the group.",
     "AsyncNotification.inviteAccepted": "{name} accepted your follow request.",
-  
-    "Error.title": "Oops, that was unexpected...",
+    "Error.title": "Oops, that was unexpected…",
     "Error.description": "Don't worry, our devs are aware, and are working on it and will get it fixed as fast as possible!",
     "Error.code": "Code: ",
-  
     "UrlPreview.source": "Source:",
     "ProfileInfo.Message": "Message",
     "ProfileInfo.Follow": "Follow",
@@ -440,7 +399,6 @@
     "ProfileInfo.groups": "Groups ",
     "ProfileInfo.companies": "Companies ",
     "ProfileInfo.photos": "Photos ",
-  
     "Company.managedBy": "Managed by",
     "Company.members": "Members",
     "Company.member": "Member",
@@ -448,9 +406,8 @@
     "Company.companiesYouMayLike": "Companies You May Like",
     "Company.createNewCompany": "Create New Company",
     "Company.companies": "Companies",
-    "Company.managed": "Managed",
     "Company.suggestionsTitle": "Companies You May Like",
-    "Company.createCompany": "Create new Company",
+    "Company.createCompany": "Create company",
     "Company.companyName": "Company's name",
     "Company.companyDescription": "Company Description",
     "Company.companyPrivacy": "Company Privacy",
@@ -460,21 +417,17 @@
     "Company.wall": "Wall",
     "Company.photos": "Photos",
     "Company.contacts": "Contacts",
-    "Company.createCompany": "Create company",
     "Company.logoType": "Logotype",
     "Company.cover": "Cover",
     "Company.unfollowCompany": "Unfollow Company",
     "Company.unfollowCompanyMessage": "Are you sure you want to unfollow this company?",
     "Company.comanycreatedSuccess": "Company created successfully",
     "Company.controlCategory": "Control how other users are able to interact with you on this site.",
-  
     "GroupsYouMayKnowSuggestions.groupsYouMayKnow": "Groups You May Like",
     "GroupsYouMayKnowSuggestions.members": "members",
     "GroupsYouMayKnowSuggestions.member": "member",
-  
     "PeopleYouMayKnowSuggestions.peopleYouMayKnow": "People You May Know",
     "PeopleYouMayKnowSuggestions.mutualFollowers": "Mutual Followers",
-  
     "Groups.groups": "Groups",
     "Groups.invitatios": "Invitations",
     "Groups.groupsYouMayLike": "Groups You May Like",
@@ -524,7 +477,6 @@
     "Groups.deleteTitle": "Delete group",
     "Groups.makeAdmin": "Make Admin",
     "Groups.makeMember": "Make Member",
-    "Groups.block": "Block",
     "Groups.delete": "Delete",
     "Groups.sendInvite": "Send invitation",
     "Groups.invitationSent": "Invitation Sent",
@@ -532,11 +484,9 @@
     "Groups.deleteGroupSuccess": "Group has been deleted successfully",
     "Groups.blockMemberSuccess": "Member blocked successfully",
     "Groups.deleteMemberSuccess": "Member deleted successfully",
-  
     "Filters.noResult": "No results found",
     "Filters.noResultForSelectedFilters": "no results for the filter selected",
     "PeopleYouMayKnowSuggestions.mutualFollower": "mutual follower",
-  
     "NotificationsWebView.notifications": "Notifications",
     "NotificationTypeVote.upVotePost": "liked a post of yours",
     "NotificationTypeVote.downVotePost": "disliked a post of yours",
@@ -556,29 +506,22 @@
     "NotificationTypeUserFollow.notification": " started to follow you",
     "NotificationTypeUserFollowRequest.notification": "sent a follow request",
     "NotificationTypeUserFollowAccept.notification": "accepted your follow request",
-  
     "AlbumsHeader.title": "Photos",
     "AlbumsHeader.albums": "albums",
-  
     "AlbumDeleteModal.title": "Delete Album",
     "AlbumDeleteModal.message": "Are you sure you want to delete this album? This action will delete all photos in this album? This cannot be undone!",
     "AlbumDeleteModal.cancelButton": "Cancel",
     "AlbumDeleteModal.deleteButton": "Delete",
-  
     "AlbumCreateModal.title": "Create Album",
     "AlbumCreateModal.cancelButton": "Cancel",
     "AlbumCreateModal.createButton": "Create",
-  
     "AlbumEditModal.title": "Edit Album",
     "AlbumEditModal.cancelButton": "Cancel",
     "AlbumEditModal.editButton": "Edit",
-  
     "AlbumsHeader.createButton": "Create Album",
-  
     "AlbumModal.title": "Title",
-  
     "NotificationsList.accept": "Follow request accepted",
     "NotificationsList.decline": "Follow request declined",
     "privateProfile.acceptYourRequest": "You cannot see this user's profile until they accept your request.",
     "privateProfile.startFollow": "You cannot see this user's profile until you follow them"
-  }
+}

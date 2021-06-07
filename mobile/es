@@ -1,3 +1,0 @@
-{
-    "Backend.invalidAttempt": "Error de autenticación, total de intentos: {{count}}"
-}

@@ -1,1 +1,3 @@
-{}
+{
+    "Backend.invalidAttempt": "Nabigo ang pagpapatotoo, kabuuan ng mga pagtatangka: {{count}}"
+}

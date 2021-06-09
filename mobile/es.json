@@ -3,5 +3,19 @@
     "Backend.accountLocked": "Esta cuenta fue bloqueada en {{lockedAt}} y se desbloqueará después de 10 minutos.",
     "Backend.validationUserNotFound": "La dirección de correo electrónico que ingresó no coincide con nuestros registros. Vuelve a comprobarlo e inténtalo de nuevo.",
     "Backend.validationUserAlreadyExists": "El correo ingresado para la creación de la cuenta ya existe.",
-    "Backend.accountLockedNow": "Esta cuenta está bloqueada por los siguientes 10 minutos."
+    "Backend.accountLockedNow": "Esta cuenta está bloqueada por los siguientes 10 minutos.",
+    "SignIn.authFailure": "Correo electrónico o contraseña invalida",
+    "useForm.pattern": "Patrón inválido",
+    "settings_select_the_language": "Seleccione un idioma",
+    "Backend.cantReportOwnPost": "No puede reportar su propia publicación",
+    "useForm.minLength": "Largo mínimo {{length}}",
+    "login.doNotHaveAnAccount": "No tiene una cuenta?",
+    "login.iForgotMyPassword": "Olvidé mi contraseña",
+    "Backend.invalidType": "Tipo de publicación inválida",
+    "SignIn2FA.auth2faFailure": "Código de verificación inválido",
+    "SignIn2FA.resendTokenFailure": "No es posible enviar un nuevo token",
+    "useForm.email": "Correo electrónico inválido",
+    "Backend.validationInvalidCredentials": "La contraseña que ha ingresado no coincide con nuestros registros. Por favor verifique e intente nuevamente",
+    "useForm.maxLength": "Largo máximo {{length}}",
+    "useForm.required": "Campo requerido"
 }

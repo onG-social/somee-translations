@@ -1,1 +1,4 @@
-{}
+{
+    "Backend.accountLocked": "Dieser Account wurde gesperrt um {{lockedAt}} und wird entsperrt nach 10 Minuten.",
+    "Backend.accountLockedNow": "Dieser Account ist gesperrt für die nächsten 10 Minuten."
+}

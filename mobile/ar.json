@@ -1,1 +1,3 @@
-{}
+{
+    "Backend.invalidAttempt": "فشلت المصادقة ، إجمالي المحاولات: {{count}}"
+}

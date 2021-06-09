@@ -17,5 +17,9 @@
     "useForm.email": "Correo electrónico inválido",
     "Backend.validationInvalidCredentials": "La contraseña que ha ingresado no coincide con nuestros registros. Por favor verifique e intente nuevamente",
     "useForm.maxLength": "Largo máximo {{length}}",
-    "useForm.required": "Campo requerido"
+    "useForm.required": "Campo requerido",
+    "Backend.userNotEnabled": "Usuario no habilitado",
+    "Backend.invalidAccessRole": "Error de autenticación. Usted no está aprobado para la versión beta.",
+    "Backend.invalidToken": "Token no válido.",
+    "Backend.genericError": "Lo sentimos, no pudimos continuar con su solicitud"
 }

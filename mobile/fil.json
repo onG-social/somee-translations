@@ -1,3 +1,12 @@
 {
-    "Backend.invalidAttempt": "Nabigo ang pagpapatotoo, kabuuan ng mga pagtatangka: {{count}}"
+    "Backend.invalidAttempt": "Nabigo ang pagpapatotoo, kabuuan ng mga pagtatangka: {{count}}",
+    "Backend.accountLocked": "Ang account na ito ay naka-lock sa {{lockAt}} at maa-unlock makalipas ang 10 minuto.",
+    "Backend.validationUserAlreadyExists": "Ang email na ibinigay para sa paglikha ng account ay mayroon nang.",
+    "Backend.accountLockedNow": "Ang account na ito ay naka-lock para sa susunod na 10 minuto.",
+    "Backend.userNotEnabled": "Hindi Pinagana ang Gumagamit",
+    "Backend.invalidPermalinkChange": "Hindi na mababago ang iyong permalink",
+    "Backend.validationUserNotFound": "Ang email address na iyong ipinasok ay hindi tugma sa aming mga talaan. Mangyaring i-double check at subukang muli.",
+    "Backend.invalidAccessRole": "Nabigo ang pagpapatotoo, hindi ka naaprubahan para sa paglabas ng beta.",
+    "Backend.validationInvalidCredentials": "Ang password na iyong ipinasok ay hindi tumutugma sa aming mga talaan. Mangyaring i-double check at subukang muli.",
+    "Backend.genericError": "Paumanhin, hindi namin natuloy ang iyong kahilingan"
 }

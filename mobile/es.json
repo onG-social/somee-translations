@@ -1,3 +1,7 @@
 {
-    "Backend.invalidAttempt": "Error de autenticación, total de intentos: {{count}}"
+    "Backend.invalidAttempt": "Error de autenticación, total de intentos: {{count}}",
+    "Backend.accountLocked": "Esta cuenta fue bloqueada en {{lockedAt}} y se desbloqueará después de 10 minutos.",
+    "Backend.validationUserNotFound": "La dirección de correo electrónico que ingresó no coincide con nuestros registros. Vuelve a comprobarlo e inténtalo de nuevo.",
+    "Backend.validationUserAlreadyExists": "El correo ingresado para la creación de la cuenta ya existe.",
+    "Backend.accountLockedNow": "Esta cuenta está bloqueada por los siguientes 10 minutos."
 }

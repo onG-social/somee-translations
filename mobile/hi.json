@@ -1,1 +1,3 @@
-{}
+{
+    "Backend.invalidAttempt": "प्रमाणीकरण विफल, कुल प्रयास: {{count}}"
+}

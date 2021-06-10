@@ -102,5 +102,6 @@
     "SettingsNotification.notificationOnTheSite": "Notificación en el sitio",
     "SettingsNotification.likedNotifications": "Notificaciones que te gustaron",
     "SettingsNotification.instantEmailNotifications": "Notificaciones instantáneas por correo electrónico",
-    "SettingsNotification.privateMessages": "Mensajes privados"
+    "SettingsNotification.privateMessages": "Mensajes privados",
+    "SettingsPrivacy.profile": "Perfil"
 }

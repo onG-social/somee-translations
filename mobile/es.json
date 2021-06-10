@@ -87,7 +87,7 @@
     "ResetPassword.failure": "Token o contraseña no válidos",
     "ResetPassword.confirmPasswordRequired": "Por favor, repite tu contraseña",
     "SettingsBlockchain.save": "GUARDAR",
-    "SettingsBlockchain.votingPowerSoMee": "Poder de voto SoMee",
+    "SettingsBlockchain.votingPowerSoMee": "Poder de voto en SoMee",
     "SettingsBlockchain.publishPostsOnSoMeeBlockchain": "Hacer publicaciones en la blockchain de SoMee",
     "SettingsNotification.unlikedNotifications": "Notificaciones que no me gustan",
     "SettingsNotification.save": "GUARDAR",

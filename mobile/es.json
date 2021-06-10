@@ -29,10 +29,16 @@
     "login.password": "Contraseña",
     "login.signInWith": "Iniciar sesión con",
     "Login2FA.required": "Se requiere autenticación de dos factores",
-    "login.login": "ACCEDER",
+    "login.login": "ACCESO",
     "login.waitingList": "Únete a la lista de espera",
     "login.civic": "Civic",
     "login.facebook": "Facebook",
     "login.linkedin": "Linkedin",
-    "login.signUp": "REGÍSTRESE"
+    "login.signUp": "REGÍSTRESE",
+    "Login2FA.differentMethod": "UTILIZA UN MÉTODO DIFERENTE",
+    "Login2FA.verify": "VERIFICA",
+    "Login2FA.code": "Código",
+    "SignUpName.returnStep": "Crea una nueva cuenta",
+    "Login2FA.reset": "Reinicia",
+    "Login2FA.resendToken": "Reenviar código"
 }

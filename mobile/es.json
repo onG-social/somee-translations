@@ -325,7 +325,7 @@
     "BoostPost.available": "Disponible ",
     "BoostPost.shoutPost": "Destacar publicación",
     "ReportPost.reportDetails": "Detalles del reporte",
-    "Following.removeSilenceFollowerMessage": "<0>Estas seguro que quieres desactivar el silencio del seguidor <1>{{seguidor}}</1></0>",
+    "Following.removeSilenceFollowerMessage": "<0>¿Estás seguro que quieres desactivar el silencio del seguidor <1>{{seguidor}}?</1></0>",
     "Following.removeSilenceFollowerTitle": "Desactivar silencio",
     "ConfirmationMessage.cancel": "Cancelar",
     "SectionFilter.search": "Buscar",
@@ -395,7 +395,7 @@
     "FollowingScreen.silenced": "Silenciado",
     "FollowingScreen.blocked": "Bloqueado",
     "FollowersScreen.blocked": "Bloqueado",
-    "Following.silence": "Silencio",
+    "Following.silence": "Silenciar",
     "Following.followingHeader": "Siguiendo",
     "Profile.follow": "Seguir",
     "Profile.message": "Mensaje",
@@ -405,8 +405,8 @@
     "Profile.timeline": "Línea de tiempo",
     "Profile.mutualFollowers": "{{number}} seguidores mutuos",
     "Profile.unfollow": "Dejar de seguir",
-    "Following.removeSilence": "Remover Silencio",
+    "Following.removeSilence": "Desactivar Silencio",
     "Following.mutualFollowers_plural": "{{count}} seguidores",
-    "Profile.canNotSeeUserProfile": "No puedes ver este perfil de usuario hasta que acepten tu solicitud",
+    "Profile.canNotSeeUserProfile": "No puedes ver el perfil de este usuario hasta que acepte tu solicitud",
     "Profile.following": "Siguiendo"
 }

@@ -200,5 +200,10 @@
     "EditPost.postEditSuccess": "Publicación editada exitosamente",
     "CreatePost.newPost": "Nueva publicación",
     "CreatePost.publish": "Publicar",
-    "CreatePost.placeholder": "¿Qué tienes en mente?"
+    "CreatePost.placeholder": "¿Qué tienes en mente?",
+    "CreatePost.addPreview": "Agregar vista previa",
+    "NewPostHeader.onlyMe": "Sólo yo",
+    "NewPostHeader.friends": "Amigos",
+    "NewPostHeader.public": "Público",
+    "NewPostHeader.groups": "Grupos"
 }

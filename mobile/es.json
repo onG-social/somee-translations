@@ -41,5 +41,22 @@
     "SignUpName.returnStep": "Crea una cuenta nueva",
     "Login2FA.reset": "Reiniciar",
     "Login2FA.resendToken": "Reenviar codigo",
-    "Login2FA.followInstructionsAuthenticator": "Ingresa el código de verificación de 6 dígitos generado por tu aplicación de autenticación, cuenta"
+    "Login2FA.followInstructionsAuthenticator": "Ingresa el código de verificación de 6 dígitos generado por tu aplicación de autenticación, cuenta",
+    "SignUpFooter.haveAnAccount": "¿Tienes una cuenta?",
+    "SignUpEmail.returnStep": "Crea una nueva cuenta",
+    "SignUp.signupFailure": "No se puede crear tu cuenta",
+    "SignUpPassword.returnStep": "Crea una nueva cuenta",
+    "SignUp.invalidConfirmPassword": "La contraseña no coincide con la contraseña de confirmación",
+    "SignUpName.next": "SIGUIENTE",
+    "SignUp.confirmPasswordNotMatch": "Confirmar que la contraseña no coincide",
+    "SignUpConfirmMessage_confirmation_required": "Te hemos enviado un mensaje de confirmación a tu correo electrónico",
+    "SignUpPassword.confirmPasswordLabel": "Confirma la Contraseña",
+    "SignUpEmail.emailLabel": "Correcto electrónico",
+    "SignUpPassword.passwordLabel": "Contraseña",
+    "SignUpPassword.createAccount": "CREAR CUENTA",
+    "SignUpName.lastNameLabel": "Apellido",
+    "SignUpName.firstNameLabel": "Primer Nombre",
+    "SignUpConfirmMessage_login": "ACCESO",
+    "SignUpConfirmMessage_follow_instructions": "Ingresa a tu correo electrónico y sigue las instrucciones",
+    "SignUpEmail.next": "SIGUIENTE"
 }

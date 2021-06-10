@@ -377,5 +377,14 @@
     "ErrorBoundary.Code": "Código:",
     "OnBoarding.titleThree": "Disfrutar",
     "OnBoarding.titleOne": "Conectar",
-    "Search.unfollow": "Dejar de seguir"
+    "Search.unfollow": "Dejar de seguir",
+    "Followers.remove": "Remover",
+    "Followers.silence": "Silenciar",
+    "Followers.mutualFollowers_plural": "{{count}} seguidores",
+    "Followers.removeSilence": "Remover Silencio",
+    "Followers.followers": "Seguidores",
+    "Followers.removeFollowerMessage": "<0>Está seguro que desea remover al seguidor <1>{{follower}}</1></0>",
+    "SectionFilter.test_plural": "{{count}} Leroleros",
+    "Followers.mutualFollowers": "{{count}} seguidor",
+    "Followers.removeFollowerTitle": "Remover a Seguidor"
 }

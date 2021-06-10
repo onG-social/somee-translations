@@ -35,11 +35,11 @@
     "login.facebook": "Facebook",
     "login.linkedin": "Linkedin",
     "login.signUp": "REGÍSTRESE",
-    "Login2FA.differentMethod": "UTILIZA UN MÉTODO DIFERENTE",
-    "Login2FA.verify": "VERIFICA",
+    "Login2FA.differentMethod": "UTILICE UN MÉTODO DIFERENTE",
+    "Login2FA.verify": "VERIFICAR",
     "Login2FA.code": "Código",
-    "SignUpName.returnStep": "Crea una nueva cuenta",
-    "Login2FA.reset": "Reinicia",
-    "Login2FA.resendToken": "Reenviar código",
+    "SignUpName.returnStep": "Crea una cuenta nueva",
+    "Login2FA.reset": "Reiniciar",
+    "Login2FA.resendToken": "Reenviar codigo",
     "Login2FA.followInstructionsAuthenticator": "Ingresa el código de verificación de 6 dígitos generado por tu aplicación de autenticación, cuenta"
 }

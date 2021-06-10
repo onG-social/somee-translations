@@ -87,5 +87,20 @@
     "ResetPassword.failure": "Token o contraseña no válidos",
     "ResetPassword.confirmPasswordRequired": "Por favor, repite tu contraseña",
     "SettingsBlockchain.save": "GUARDAR",
-    "SettingsBlockchain.votingPowerSoMee": "Poder de voto SoMee"
+    "SettingsBlockchain.votingPowerSoMee": "Poder de voto SoMee",
+    "SettingsBlockchain.publishPostsOnSoMeeBlockchain": "Hacer publicaciones en la blockchain de SoMee",
+    "SettingsNotification.unlikedNotifications": "Notificaciones que no me gustan",
+    "SettingsNotification.save": "GUARDAR",
+    "SettingsNotification.unlikeNotifications": "Notificaciones que no me gustaron",
+    "SettingsNotification.instantNotifications": "Notificaciones instantáneas",
+    "SettingsNotification.postComments": "Publicar comentarios",
+    "SettingsBlockchain.generalBlockchainSettings": "Configuración general de Blockchain",
+    "SettingsNotification.requests": "Solicitudes",
+    "SettingsNotification.groupPostComments": "Comentarios de publicaciones de grupos",
+    "SettingsNotification.feedback": "Comentarios",
+    "SettingsNotification.messageText": "Mensaje de texto",
+    "SettingsNotification.notificationOnTheSite": "Notificación en el sitio",
+    "SettingsNotification.likedNotifications": "Notificaciones que te gustaron",
+    "SettingsNotification.instantEmailNotifications": "Notificaciones instantáneas por correo electrónico",
+    "SettingsNotification.privateMessages": "Mensajes privados"
 }

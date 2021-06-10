@@ -106,5 +106,7 @@
     "SettingsPrivacy.profile": "Perfil",
     "SettingsPrivacy.timelineTitle": "¿Quién puede ver mi línea de tiempo?",
     "SettingsPrivacy.timeline": "Privacidad de la línea de tiempo",
-    "SettingsPrivacy.timelineCaption": "Ajusta quién puede ver, publicar o interactuar con tu línea de tiempo"
+    "SettingsPrivacy.timelineCaption": "Ajusta quién puede ver, publicar o interactuar con tu línea de tiempo",
+    "SettingsPrivacy.timelineFollowers": "Todos mis seguidores",
+    "SettingsPrivacy.timelineAll": "Todos"
 }

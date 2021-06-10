@@ -229,7 +229,7 @@
     "NotificationTypeCompanyPostComment.notification": "<0><1>{{name}}</1> comentó en una publicación en la <1>{{company}} company</1> </0>",
     "NotificationTypeCompanyPostMention.notification": "<0><1>{{name}}</1> te mencionó en una publicación en el <1>{{company}} company</1></0>",
     "PostComments.comments": "Comentarios",
-    "Select.placeholder": "Marcador de posición",
+    "Select.placeholder": "Seleccionar. Marcador de posición",
     "SharePost.Linkedin": "LinkedIn",
     "NotificationTypeVote.upVotePost": "a <0><1>{{name}}</1> le gusta una publicación tuya</0>",
     "PostComment.delete": "Eliminar",
@@ -324,5 +324,14 @@
     "TwoFactor.removePhoneExplanation": "Si haces esto, ya no recibirás mensajes de texto como parte de la autenticación de dos factores. Ten en cuenta que esto también desactivará la autenticación de dos factores.",
     "BoostPost.available": "Disponible ",
     "BoostPost.shoutPost": "Destacar publicación",
-    "ReportPost.reportDetails": "Detalles del reporte"
+    "ReportPost.reportDetails": "Detalles del reporte",
+    "Following.removeSilenceFollowerMessage": "<0>Estas seguro que quieres desactivar el silencio del seguidor <1>{{seguidor}}</1></0>",
+    "Following.removeSilenceFollowerTitle": "Desactivar silencio",
+    "ConfirmationMessage.cancel": "Cancelar",
+    "SectionFilter.search": "Buscar",
+    "Profile.header": "{{Nombre}} - Perfil",
+    "OwnProfile.myProfile": "Mi perfil",
+    "PostHeader.copyLink": "Copiar enlace",
+    "PostLink.areYouSure": "No es posible abrir el enlace desde la aplicación, te gustaría abrirlo desde tu navegador favorito?",
+    "ConfirmationMessage.confirm": "Confirmar"
 }

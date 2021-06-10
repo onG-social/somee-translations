@@ -190,5 +190,8 @@
     "SideBar.newsFeed": "Noticias",
     "SideBar.followers": "Seguidores",
     "SideBar.privacy": "Privacidad",
-    "SideBar.doNotSellMyInfo": "No Vender Mi Info"
+    "SideBar.doNotSellMyInfo": "No Vender Mi Info",
+    "SideBar.about": "Acerca de SoMee",
+    "SideBar.legal": "Legal",
+    "SideBar.refundPolicy": "Política de Reembolso"
 }

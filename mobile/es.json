@@ -58,5 +58,8 @@
     "SignUpName.firstNameLabel": "Primer Nombre",
     "SignUpConfirmMessage_login": "ACCESO",
     "SignUpConfirmMessage_follow_instructions": "Ingresa a tu correo electrónico y sigue las instrucciones",
-    "SignUpEmail.next": "SIGUIENTE"
+    "SignUpEmail.next": "SIGUIENTE",
+    "SignUpFooter.signIn": "INICIAR SESIÓN",
+    "ForgotPassword.forgotPassword": "¿Olvidaste tu contraseña?",
+    "ForgotPassword.emailFailure": "Correo electrónico no encontrado"
 }

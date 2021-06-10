@@ -193,5 +193,10 @@
     "SideBar.doNotSellMyInfo": "No vender mis datos",
     "SideBar.about": "Acerca de SoMee",
     "SideBar.legal": "Legal",
-    "SideBar.refundPolicy": "Política de Reembolso"
+    "SideBar.refundPolicy": "Política de Reembolso",
+    "PostContentPreview.source": "Fuente:",
+    "EditPost.editPost": "Editar Publicación",
+    "EditPost.postEditFailed": "No se pudo editar la publicación",
+    "EditPost.postEditSuccess": "Publicación editada exitosamente",
+    "CreatePost.newPost": "Nueva Publicación"
 }

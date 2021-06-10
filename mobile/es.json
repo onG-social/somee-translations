@@ -113,5 +113,13 @@
     "SettingsPrivacy.allUsers": "Todos los usuarios",
     "SettingsPrivacy.images": "Imágenes",
     "SettingsPrivacy.myFriends": "Mis amigos",
-    "SettingsPrivacy.friends": "Amigos"
+    "SettingsPrivacy.friends": "Amigos",
+    "SettingsPrivacy.viewImages": "Ver imágenes",
+    "SettingsPrivacy.postStory": "Publicar historia",
+    "SettingsPrivacy.viewFriends": "Ver amigos",
+    "SettingsPrivacy.mutualFriends": "Amigos en común",
+    "SettingsPrivacy.conversation": "Conversacion",
+    "SettingsPrivacy.profileSearching": "Búsqueda de perfil",
+    "SettingsPrivacy.profileViewing": "Visualización de perfil",
+    "SettingsPrivacy.onlyMe": "Sólo yo"
 }

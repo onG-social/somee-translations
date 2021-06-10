@@ -40,5 +40,6 @@
     "Login2FA.code": "Código",
     "SignUpName.returnStep": "Crea una nueva cuenta",
     "Login2FA.reset": "Reinicia",
-    "Login2FA.resendToken": "Reenviar código"
+    "Login2FA.resendToken": "Reenviar código",
+    "Login2FA.followInstructionsAuthenticator": "Ingresa el código de verificación de 6 dígitos generado por tu aplicación de autenticación, cuenta"
 }

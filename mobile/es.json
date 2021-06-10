@@ -80,10 +80,12 @@
     "ResetPassword.resetYourPassword": "Cambia tu contraseña",
     "Settings.privacy": "Privacidad",
     "Settings.security": "Seguridad",
-    "Settings.basicInformations": "Información básica",
+    "Settings.basicInformations": "Informaciones básicas",
     "ResetPasswordConfirmation.login": "ACCEDER",
     "ResetPasswordConfirmation.confirmationMessage": "Tu contraseña ha sido actualizada",
     "OnBoarding.skip": "Omitir",
     "ResetPassword.failure": "Token o contraseña no válidos",
-    "ResetPassword.confirmPasswordRequired": "Por favor, repite tu contraseña"
+    "ResetPassword.confirmPasswordRequired": "Por favor, repite tu contraseña",
+    "SettingsBlockchain.save": "GUARDAR",
+    "SettingsBlockchain.votingPowerSoMee": "Poder de voto SoMee"
 }

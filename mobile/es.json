@@ -169,5 +169,9 @@
     "ChangePassword.confirmPassword": "Confirmar contraseña",
     "PasswordChecker.yourPasswordMustContain": "Tu contraseña debe contener al menos",
     "SettingsSecurity.twoFactorAuthentication": "Autenticación de dos factores",
-    "PasswordChecker.passwordMatch": "Las contraseñas coinciden"
+    "PasswordChecker.passwordMatch": "Las contraseñas coinciden",
+    "SideBar.becomeInfluencer": "Conviértete en un influencer",
+    "SettingsWrapper.changesSaved": "Los cambios se guardaron exitosamente.",
+    "SharePost.Button": "Compartir",
+    "SettingsWrapper.settings": "Ajustes"
 }

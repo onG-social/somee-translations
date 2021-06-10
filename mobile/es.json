@@ -394,5 +394,19 @@
     "FollowersScreen.silenced": "Silenciado",
     "FollowingScreen.silenced": "Silenciado",
     "FollowingScreen.blocked": "Bloqueado",
-    "FollowersScreen.blocked": "Bloqueado"
+    "FollowersScreen.blocked": "Bloqueado",
+    "Following.silence": "Silencio",
+    "Following.followingHeader": "Siguiendo",
+    "Profile.follow": "Seguir",
+    "Profile.message": "Mensaje",
+    "Following.unfollow": "Dejar de seguir",
+    "Following.mutualFollowers": "{{count}} seguidor",
+    "Profile.cancelRequest": "Cancelar solicitud",
+    "Profile.timeline": "Línea de tiempo",
+    "Profile.mutualFollowers": "{{number}} seguidores mutuos",
+    "Profile.unfollow": "Dejar de seguir",
+    "Following.removeSilence": "Remover Silencio",
+    "Following.mutualFollowers_plural": "{{count}} seguidores",
+    "Profile.canNotSeeUserProfile": "No puedes ver este perfil de usuario hasta que acepten tu solicitud",
+    "Profile.following": "Siguiendo"
 }

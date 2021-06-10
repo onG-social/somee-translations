@@ -231,5 +231,10 @@
     "PostComments.comments": "Comentarios",
     "Select.placeholder": "Marcador de posición",
     "SharePost.Linkedin": "Linkedin",
-    "NotificationTypeVote.upVotePost": "<0><1>{{name}}</1> gustan una publicación tuya</0>"
+    "NotificationTypeVote.upVotePost": "<0><1>{{name}}</1> gustan una publicación tuya</0>",
+    "PostComment.delete": "Eliminar",
+    "UrlPreview.source": "Fuente:",
+    "PostComment.edit": "Editar",
+    "PostCommentForm.Submit": "Enviar",
+    "PostCommentForm.writeComment": "¿Cuál es tu comentario?"
 }

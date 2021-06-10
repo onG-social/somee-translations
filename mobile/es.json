@@ -103,5 +103,7 @@
     "SettingsNotification.likedNotifications": "Notificaciones que te gustaron",
     "SettingsNotification.instantEmailNotifications": "Notificaciones instantáneas por correo electrónico",
     "SettingsNotification.privateMessages": "Mensajes privados",
-    "SettingsPrivacy.profile": "Perfil"
+    "SettingsPrivacy.profile": "Perfil",
+    "SettingsPrivacy.timelineTitle": "¿Quién puede ver mi línea de tiempo?",
+    "SettingsPrivacy.timeline": "Privacidad de la Línea de Tiempo"
 }

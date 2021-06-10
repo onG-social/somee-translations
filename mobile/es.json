@@ -126,5 +126,7 @@
     "SettingsPrivacy.controlHowOtherUsersCanViewYourStories": "Controla cómo otros usuarios pueden ver tus historias.",
     "SettingsPrivacy.controlHowOtherUsersCanViewYourPhotos": "Controla cómo otros usuarios pueden ver tus fotos.",
     "SettingsPrivacy.controlHowOtherUsersCanAccessYourFriend'sListAndRequests": "Controle cómo otros usuarios pueden acceder a tu lista de amigos y de solicitudes",
-    "SettingsPrivacy.save": "SALVAR"
+    "SettingsPrivacy.save": "GUARDAR",
+    "SettingsBasicInfo.generalSettings": "Configuración general",
+    "SettingsBasicInfo.firstName": "Primer nombre"
 }

@@ -128,5 +128,6 @@
     "SettingsPrivacy.controlHowOtherUsersCanAccessYourFriend'sListAndRequests": "Controle cómo otros usuarios pueden acceder a tu lista de amigos y de solicitudes",
     "SettingsPrivacy.save": "GUARDAR",
     "SettingsBasicInfo.generalSettings": "Configuración general",
-    "SettingsBasicInfo.firstName": "Primer nombre"
+    "SettingsBasicInfo.firstName": "Primer nombre",
+    "SettingsBasicInfo.lastName": "Apellido"
 }

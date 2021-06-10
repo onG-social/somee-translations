@@ -238,9 +238,9 @@
     "PostCommentForm.Submit": "Enviar",
     "PostCommentForm.writeComment": "¿Cuál es tu comentario?",
     "NotificationTypeUserPost.notification": "<0><1>{{name}}</1> creó una nueva publicación</0>",
-    "NotificationTypeGroupMention.notification": "<0><1>{{name}}</1> te mencionaron en una publicación en el <1>{{group}} grupo</1></0>",
-    "NotificationTypeUserPostComment.notification": "<0><1>{{name}}</1> comentaron en una publicación tuya</0>",
-    "NotificationTypeUserPostCommentMention.notification": "<0><1>{{name}}</1> te mencionaron en un comentario de publicación</0>",
-    "NotificationTypeGroupPost.notification": "<0><1>{{name}}</1> creó una nueva publicación en el <1>{{group}} grupo</1></0>",
+    "NotificationTypeGroupMention.notification": "<0><1>{{name}}</1> te mencionó en una publicación del <1>grupo {{group}}</1></0>",
+    "NotificationTypeUserPostComment.notification": "<0><1>{{name}}</1> comentó en una publicación tuya</0>",
+    "NotificationTypeUserPostCommentMention.notification": "<0><1>{{name}}</1> te mencionó en el comentario de una publicación</0>",
+    "NotificationTypeGroupPost.notification": "<0><1>{{name}}</1> creó una nueva publicación en el <1>grupo {{group}}</1></0>",
     "NotificationTypeUserPostMention.notification": "<0><1>{{name}}</1> te mencionaron en una publicación</0>"
 }

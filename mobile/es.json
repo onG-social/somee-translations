@@ -61,5 +61,16 @@
     "SignUpEmail.next": "SIGUIENTE",
     "SignUpFooter.signIn": "INICIAR SESIÓN",
     "ForgotPassword.forgotPassword": "¿Olvidaste tu contraseña?",
-    "ForgotPassword.emailFailure": "Correo electrónico no encontrado"
+    "ForgotPassword.emailFailure": "Correo electrónico no encontrado",
+    "ForgotPasswordConfirmation.confirmationRequired": "Enviamos las instrucciones a tu correo electrónico",
+    "ResetPassword.confirmPasswordLabel": "Confirmar contraseña",
+    "ResetPassword.passwordRequired": "Por favor, ingresa tu contraseña",
+    "ResetPassword.passwordLabel": "Contraseña",
+    "ForgotPassword.emailRequired": "Por favor, proporciona un correo electrónico válido",
+    "ForgotPassword.emailLabel": "Correo electrónico",
+    "ForgotPasswordConfirmation.login": "ACCESO",
+    "ForgotPassword.send": "ENVIAR",
+    "ResetPassword.changePassword": "CAMBIAR CONTRASEÑA",
+    "ForgotPassword.followInstructions": "Ingresa tu dirección de correo electrónico a continuación para redirigirte a buen puerto.",
+    "ForgotPasswordConfirmation.followInstructions": "Accede a tu correo electrónico y sigue las instrucciones."
 }

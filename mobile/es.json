@@ -195,10 +195,10 @@
     "SideBar.legal": "Asuntos Legales",
     "SideBar.refundPolicy": "Politica de reembolso",
     "PostContentPreview.source": "Fuente:",
-    "EditPost.editPost": "Editar Publicación",
+    "EditPost.editPost": "Editar publicación",
     "EditPost.postEditFailed": "No se pudo editar la publicación",
     "EditPost.postEditSuccess": "Publicación editada exitosamente",
-    "CreatePost.newPost": "Nueva Publicación",
+    "CreatePost.newPost": "Nueva publicación",
     "CreatePost.publish": "Publicar",
     "CreatePost.placeholder": "¿Qué tienes en mente?"
 }

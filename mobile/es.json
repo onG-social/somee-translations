@@ -378,13 +378,16 @@
     "OnBoarding.titleThree": "Disfrutar",
     "OnBoarding.titleOne": "Conectar",
     "Search.unfollow": "Dejar de seguir",
-    "Followers.remove": "Remover",
+    "Followers.remove": "Eliminar",
     "Followers.silence": "Silenciar",
     "Followers.mutualFollowers_plural": "{{count}} seguidores",
-    "Followers.removeSilence": "Remover Silencio",
+    "Followers.removeSilence": "Desactivar silenciar",
     "Followers.followers": "Seguidores",
-    "Followers.removeFollowerMessage": "<0>Está seguro que desea remover al seguidor <1>{{follower}}</1></0>",
+    "Followers.removeFollowerMessage": "<0>¿Estás seguro que deseas eliminar al seguidor <1>{{follower}}?</1></0>",
     "SectionFilter.test_plural": "{{count}} Leroleros",
     "Followers.mutualFollowers": "{{count}} seguidor",
-    "Followers.removeFollowerTitle": "Remover a Seguidor"
+    "Followers.removeFollowerTitle": "Eliminar a un Seguidor",
+    "Followers.silenceFollowerTitle": "Silenciar a seguidor",
+    "Followers.removeSilenceFollowerTitle": "Desactivar Silenciar",
+    "Followers.silenceFollowerMessage": "<0> ¿Estás seguro de que deseas silenciar al seguidor <1>{{follower}}?</1> </0>"
 }

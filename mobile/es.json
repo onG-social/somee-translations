@@ -72,5 +72,18 @@
     "ForgotPassword.send": "ENVIAR",
     "ResetPassword.changePassword": "CAMBIAR CONTRASEÑA",
     "ForgotPassword.followInstructions": "Ingresa tu dirección de correo electrónico a continuación para redirigirte a buen puerto.",
-    "ForgotPasswordConfirmation.followInstructions": "Accede a tu correo electrónico y sigue las instrucciones."
+    "ForgotPasswordConfirmation.followInstructions": "Accede a tu correo electrónico y sigue las instrucciones.",
+    "ResetPasswordConfirmation.followInstructions": "Por favor, inicia sesión con tu nueva contraseña.",
+    "ResetPassword.followInstructions": "Ingresa tu nueva contraseña aquí abajo.",
+    "Settings.blockchain": "Blockchain",
+    "Settings.notification": "Notificación",
+    "ResetPassword.resetYourPassword": "Cambia tu contraseña",
+    "Settings.privacy": "Privacidad",
+    "Settings.security": "Seguridad",
+    "Settings.basicInformations": "Información básica",
+    "ResetPasswordConfirmation.login": "ACCEDER",
+    "ResetPasswordConfirmation.confirmationMessage": "Tu contraseña ha sido actualizada",
+    "OnBoarding.skip": "Omitir",
+    "ResetPassword.failure": "Token o contraseña no válidos",
+    "ResetPassword.confirmPasswordRequired": "Por favor, repite tu contraseña"
 }

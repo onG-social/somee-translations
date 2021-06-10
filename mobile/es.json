@@ -333,5 +333,21 @@
     "OwnProfile.myProfile": "Mi perfil",
     "PostHeader.copyLink": "Copiar enlace",
     "PostLink.areYouSure": "No es posible abrir el enlace desde la aplicación, te gustaría abrirlo desde tu navegador favorito?",
-    "ConfirmationMessage.confirm": "Confirmar"
+    "ConfirmationMessage.confirm": "Confirmar",
+    "PostLink.cancel": "Cancelar",
+    "PostHeader.boost": "Impulsar",
+    "OnBoarding.getStarted": "Comienza",
+    "PostHeader.edit": "Editar",
+    "SectionFilter.test": "{{count}} Lerolero",
+    "OnBoarding.captionThree": "Recuéstate y disfruta del fruto\nde tu trabajo.\n\nVamos a iniciarte, te parece?",
+    "PostLink.copyLink": "Copia el enlace",
+    "CopyToClipboard.successMessage": "¡Enlace de publicación copiado exitosamente!",
+    "PostHeader.save": "Guardar",
+    "SideBar.showAll": "Mostrar todo",
+    "OnBoarding.captionTwo": "Crear y compartir contenido\nque es atractivo y\ngenera impulso",
+    "SideBar.addCoin": "Adiciona una nueva moneda",
+    "PostHeader.delete": "Borrar",
+    "PostHeader.report": "Reportar",
+    "PostLink.openInBrowser": "Abrir en el navegador",
+    "PostLink.open": "Abrir"
 }

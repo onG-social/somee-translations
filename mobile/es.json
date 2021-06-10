@@ -198,5 +198,7 @@
     "EditPost.editPost": "Editar Publicación",
     "EditPost.postEditFailed": "No se pudo editar la publicación",
     "EditPost.postEditSuccess": "Publicación editada exitosamente",
-    "CreatePost.newPost": "Nueva Publicación"
+    "CreatePost.newPost": "Nueva Publicación",
+    "CreatePost.publish": "Publicar",
+    "CreatePost.placeholder": "¿Qué tienes en mente?"
 }

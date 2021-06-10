@@ -251,7 +251,7 @@
     "NotificationTypeFollower.notification": "<0> <1> {{name}} </1> comenzó a seguirte</0>",
     "TwoFactor.addPhoneExplanation2": "No usaremos este número para publicar anuncios y no lo mostraremos a otras personas en tu perfil a menos que lo configures como visible.",
     "TwoFactor.titleNav": "Autenticación de dos factores",
-    "TwoFactor.notifTitle": "Autenticación de dos factores",
+    "TwoFactor.notifTitle": "Autenticación de Dos Factores",
     "TwoFactor.addPhone": "Agregar un número de teléfono",
     "TwoFactor.prev": "Anterior",
     "TwoFactor.cancel": "Cancelar",

@@ -205,5 +205,12 @@
     "NewPostHeader.onlyMe": "Sólo yo",
     "NewPostHeader.friends": "Amigos",
     "NewPostHeader.public": "Público",
-    "NewPostHeader.groups": "Grupos"
+    "NewPostHeader.groups": "Grupos",
+    "ChooseAnImageFrom.library": "Biblioteca",
+    "ChooseAnImageFrom": "Elige una imagen desde",
+    "NewPostFooter.gif": "Gif",
+    "NewPostFooter.image": "Imagen",
+    "ChooseAnImageFrom.camera": "Cámara",
+    "PostWriteComment.writeComment": "Escribe un comentario",
+    "NewPost.headerPlaceholder": "¿Qué tienes en mente?"
 }

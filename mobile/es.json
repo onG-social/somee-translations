@@ -31,7 +31,7 @@
     "Login2FA.required": "Se requiere autenticación de dos factores",
     "login.login": "ACCESO",
     "login.waitingList": "Únete a la lista de espera",
-    "login.civic": "Civic",
+    "login.civic": "Cívico",
     "login.facebook": "Facebook",
     "login.linkedin": "Linkedin",
     "login.signUp": "REGÍSTRESE",
@@ -273,7 +273,7 @@
     "TwoFactor.country": "País",
     "TwoFactor.addAppExplanation": "Utiliza tu aplicación de autenticación (como Duo o Google Authenticator) para leer este código QR.",
     "ReportPost.terrorism": "Terrorismo",
-    "BoostPost.boost": "Aumentar",
+    "BoostPost.boost": "Impulsar",
     "TwoFactor.SMSIntructions": "Ingresa el código de 6 dígitos que enviamos al {{number}} para terminar de configurar tu autenticación de dos factores.",
     "TwoFactor.SMSVerificationCode": "Ingresa el código de verificación",
     "TwoFactor.turnOff": "Desactivar la autenticación de dos factores",
@@ -408,5 +408,10 @@
     "Following.removeSilence": "Desactivar Silencio",
     "Following.mutualFollowers_plural": "{{count}} seguidores",
     "Profile.canNotSeeUserProfile": "No puedes ver el perfil de este usuario hasta que acepte tu solicitud",
-    "Profile.following": "Siguiendo"
+    "Profile.following": "Siguiendo",
+    "Profile.companies": "Compañías",
+    "Profile.groups ": "Grupos ",
+    "Profile.photos": "Fotos",
+    "Profile.unfollowMessage": "¿Estás seguro que deseas dejar de seguir a {{name}}?",
+    "Profile.followers": "Seguidores"
 }

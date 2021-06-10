@@ -129,5 +129,7 @@
     "SettingsPrivacy.save": "GUARDAR",
     "SettingsBasicInfo.generalSettings": "Configuración general",
     "SettingsBasicInfo.firstName": "Primer nombre",
-    "SettingsBasicInfo.lastName": "Apellido"
+    "SettingsBasicInfo.lastName": "Apellido",
+    "SettingsSecurity.twoFactorAuthenticationSubtitle": "Le pediremos un código de seguridad siempre que inicie sesión o acceda a su billetera.",
+    "SideBar.socialDashboard": "Tablero Social"
 }

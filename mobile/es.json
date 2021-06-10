@@ -170,7 +170,7 @@
     "PasswordChecker.yourPasswordMustContain": "Tu contraseña debe contener al menos",
     "SettingsSecurity.twoFactorAuthentication": "Autenticación de dos factores",
     "PasswordChecker.passwordMatch": "Las contraseñas coinciden",
-    "SideBar.becomeInfluencer": "Conviértete en un influencer",
+    "SideBar.becomeInfluencer": "Conviértete en un Influencer",
     "SettingsWrapper.changesSaved": "Los cambios se guardaron exitosamente.",
     "SharePost.Button": "Compartir",
     "SettingsWrapper.settings": "Ajustes",
@@ -183,10 +183,12 @@
     "SideBar.helpSupport": "Ayuda y Soporte",
     "SideBar.ico": "ICO",
     "SideBar.companies": "Compañías",
-    "SideBar.votingPower": "Poder de voto",
+    "SideBar.votingPower": "Poder de Voto",
     "SideBar.following": "Siguiendo",
     "SideBar.aboutSomee": "Sobre SoMee",
-    "SideBar.myFavoriteCoins": "Mis monedas favoritas",
+    "SideBar.myFavoriteCoins": "Mis Monedas Favoritas",
     "SideBar.newsFeed": "Noticias",
-    "SideBar.followers": "Seguidores"
+    "SideBar.followers": "Seguidores",
+    "SideBar.privacy": "Privacidad",
+    "SideBar.doNotSellMyInfo": "No Vender Mi Info"
 }

@@ -390,7 +390,7 @@
     "Followers.silenceFollowerTitle": "Silenciar a seguidor",
     "Followers.removeSilenceFollowerTitle": "Desactivar Silencio",
     "Followers.silenceFollowerMessage": "<0> ¿Estás seguro que deseas silenciar al seguidor <1>{{follower}}?</1> </0>",
-    "Followers.removeSilenceFollowerMessage": "<0>Estás seguro que deseas remover el silencio del seguidor <1>{{follower}}</1></0>",
+    "Followers.removeSilenceFollowerMessage": "<0>¿Estás seguro de que deseas desactivar el silencio del seguidor <1>{{follower}}?</1> </0>",
     "FollowersScreen.silenced": "Silenciado",
     "FollowingScreen.silenced": "Silenciado",
     "FollowingScreen.blocked": "Bloqueado",

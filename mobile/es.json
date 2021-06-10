@@ -121,5 +121,9 @@
     "SettingsPrivacy.conversation": "Conversacion",
     "SettingsPrivacy.profileSearching": "Búsqueda de perfil",
     "SettingsPrivacy.profileViewing": "Visualización de perfil",
-    "SettingsPrivacy.onlyMe": "Sólo yo"
+    "SettingsPrivacy.onlyMe": "Sólo yo",
+    "SettingsPrivacy.friendRequests": "Solicitudes de amistad",
+    "SettingsPrivacy.controlHowOtherUsersCanViewYourStories": "Controla cómo otros usuarios pueden ver tus historias.",
+    "SettingsPrivacy.controlHowOtherUsersCanViewYourPhotos": "Controla cómo otros usuarios pueden ver tus fotos.",
+    "SettingsPrivacy.controlHowOtherUsersCanAccessYourFriend'sListAndRequests": "Controle cómo otros usuarios pueden acceder a la lista y las solicitudes de sus amigos."
 }

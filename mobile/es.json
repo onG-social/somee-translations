@@ -242,5 +242,11 @@
     "NotificationTypeUserPostComment.notification": "<0><1>{{name}}</1> comentó en una publicación tuya</0>",
     "NotificationTypeUserPostCommentMention.notification": "<0><1>{{name}}</1> te mencionó en el comentario de una publicación</0>",
     "NotificationTypeGroupPost.notification": "<0><1>{{name}}</1> creó una nueva publicación en el <1>grupo {{group}}</1></0>",
-    "NotificationTypeUserPostMention.notification": "<0><1>{{name}}</1> te mencionaron en una publicación</0>"
+    "NotificationTypeUserPostMention.notification": "<0><1>{{name}}</1> te mencionó en una publicación</0>",
+    "NotificationTypeFollowerInviteAccept.notification": "<0> <1> {{name}} </1> aceptó tu solicitud de seguimiento</0>",
+    "NotificationTypeFollowerInvite.decline": "Declinar",
+    "NotificationTypeFollowerInvite.notification": "<0> <1> {{name}} </1> te envió una solicitud de seguimiento</0>",
+    "NotificationTypeFollowerInvite.accept": "Aceptar",
+    "NotificationTypeUserVerification.notification": "Hay una nueva actualización en su aplicación de verificación de usuario.",
+    "NotificationTypeFollower.notification": "<0> <1> {{name}} </1> comenzó a seguirte</0>"
 }

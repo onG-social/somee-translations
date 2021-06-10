@@ -131,5 +131,20 @@
     "SettingsBasicInfo.firstName": "Primer nombre",
     "SettingsBasicInfo.lastName": "Apellido",
     "SettingsSecurity.twoFactorAuthenticationSubtitle": "Le pediremos un código de seguridad siempre que inicie sesión o acceda a su billetera.",
-    "SideBar.socialDashboard": "Tablero Social"
+    "SideBar.socialDashboard": "Tablero Social",
+    "SettingsBasicInfo.gender": "Género",
+    "SettingsBasicInfo.dayBirthday": "Día",
+    "SettingsBasicInfo.yearBirthday": "Año",
+    "SettingsBasicInfo.email": "Correo electrónico",
+    "SettingsBasicInfo.bio": "Biografía",
+    "SettingsBasicInfo.facebook": "Facebook",
+    "SettingsBasicInfo.displayName": "Mostrar nombre",
+    "SettingsBasicInfo.location": "Localización",
+    "SettingsBasicInfo.linkedin": "LinkedIn",
+    "SettingsBasicInfo.details": "Detalles",
+    "SettingsBasicInfo.permalink": "Enlace permanente",
+    "SettingsBasicInfo.accountSynchronization": "Sincronización de cuenta",
+    "SettingsBasicInfo.monthBirthday": "Mes",
+    "SettingsBasicInfo.dateOfBirth": "Fecha de nacimiento",
+    "SettingsBasicInfo.google": "Google"
 }

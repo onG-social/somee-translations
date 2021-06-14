@@ -1,1 +1,19 @@
-{}
+{
+    "Backend.accountLocked": "Този акаунт беше заключен в {{lockedAt}} и ще бъде отключен след 10 минути.",
+    "Profile.companies": "Компании",
+    "Profile.groups ": "Групи ",
+    "Profile.photos": "Снимки",
+    "Profile.follow": "Последване",
+    "Profile.message": "Съобщения",
+    "Profile.cancelRequest": "Откажи поканата",
+    "Backend.validationUserNotFound": "Имейла който сте въвели не съвпада.Моля проверете и опитайте пак.",
+    "Backend.validationUserAlreadyExists": "Този имейл вече съществува",
+    "Profile.unfollow": "Отсведлане",
+    "Backend.accountLockedNow": "Този акаунт е заключен за следващите 10 минути",
+    "Profile.canNotSeeUserProfile": "Не може да видите този профил докато не приемат вашата покана",
+    "OwnProfile.myProfile": "Моят Профил",
+    "Profile.unfollowMessage": "Сигурен ли сте ,че искате да отследвате",
+    "Backend.validationInvalidCredentials": "Паролата която сте въвели не съвпада.Моля проверете и опитайте пак.",
+    "Profile.followers": "Последователи",
+    "Profile.following": "Последване"
+}
